@@ -1,0 +1,1171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A thanksgiving sermon preached at  Christ-Church before the lords justices and council upon the 23 of October, 1661, by W.L., D.D., chaunter of Christ-Church, Dublin.</title>
+            <author>Lightburn, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48430</idno>
+            <idno type="STC">Wing L2050</idno>
+            <idno type="STC">ESTC R37978</idno>
+            <idno type="EEBO-CITATION">17157164</idno>
+            <idno type="OCLC">ocm 17157164</idno>
+            <idno type="VID">106004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1618:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A thanksgiving sermon preached at  Christ-Church before the lords justices and council upon the 23 of October, 1661, by W.L., D.D., chaunter of Christ-Church, Dublin.</title>
+                  <author>Lightburn, William.</author>
+               </titleStmt>
+               <extent>[8], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Lightburn by Wing.</note>
+                  <note>"Printed by order of the Lords Justices of Ireland."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Exodus XVIII, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106004:1" rendition="simple:additions"/>
+            <p>A Thankſgiving SERMON Preached at CHRIST-CHURCH, Before the
+LORDS JUSTICES And COUNCIL. Upon the 23 of <hi>October,</hi> 1661.</p>
+            <p>By <hi>W.L.</hi> D.D. Chaunter of <hi>Chriſt-Church
+D<g ref="char:V">Ʋ</g>BLIN.</hi>
+            </p>
+            <p>Printed by Order of the Lords Juſtices of IRELAND.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>John Crook,</hi> Printer to the
+Kings moſt Excellent Majeſty: And are to be ſold by <hi>Samuel
+Dancer,</hi> Bookſeller in <hi>Caſtle-ſtreet.</hi> 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106004:2"/>
+            <pb facs="tcp:106004:2"/>
+            <head>To the Right Honourable, <hi>The Lords Juſtices</hi> And
+CO<g ref="char:V">Ʋ</g>NCIL of <hi>IRELAND.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IT was never in my thoughts to make theſe my Meditations
+publick, I could not conceive them to be fitting for the Preſs; but Your
+Lordſhips Orders, and the Commands of thoſe whom I ſtand obliged to obey,
+have occaſioned it. If therefore You finde here no excellency of ſpeech, no
+elegancy of phraſe, be pleaſed to remember it was a Sermon preached upon
+the 23. of <hi>October,</hi> the day deſigned by the bloody Popiſh Iriſh
+Rebels for our deſtruction, the day when ſtripping and whipping began to be
+in faſhion. If therefore there want the cloathing of words, I ſay, 
+<q>Habitum temporis hujus habet.</q>
+            </p>
+            <p>My deſigne was not to tickle the Ear, but to affect the Heart;
+and to move the Auditory to a thankfull acknowledgment of the goodneſs of God
+towards us, (the Remnant that are left) that we were not involved in the common
+Calamity, that our lives were given to us for a prey, and we were reſcued by
+a hand of Providence, as ſo many Brands plucked out of the midſt of the
+burning. <hi>Curſed be their anger, for it was fierce; and their wrath, for
+it was cruel,</hi> Gen. 49.7. Like <hi>Joah, they ſhed the blood of war, in
+the days of peace,</hi> 1 King. 2.5. They had Copies to write after, the
+Sicilian Veſpers, the Maſſacre of <hi>Paris,</hi> &amp;c. but they
+endeavored to goe beyond their Maſters. The Rudiments of their Religion (if
+they wanted Copies and Examples) teach and warrant them to be perfidious,
+bloody and cruel to us. It ſhall ever be remembred (while Popery endures)
+what their<pb facs="tcp:106004:3"/>determination was, in the Council of
+<hi>Conſtance;</hi> in the caſe of <hi>John Huſs</hi> and <hi>Jerom</hi>
+of <hi>Prague,</hi> when it was required, that thoſe two ſervants of God
+ſhould appear in that malignant Council to give a reaſon of their Faith and
+Doctrine (which they were ſtill ready and deſirous to do) the Lords and
+Nobles of <hi>Bohemia</hi> would not hazard the Lights of their Church, till
+the publique Faith of the Imperial Majeſty was ingaged for their ſafety,
+and the Emperour had ſent them his ſafe Conduct: And when (up<g ref="char:EOLhyphen"/>on thoſe
+Letters of ſafe Conduct) they appeared in the Council, and had given an
+account of their Faith and Doctrine, and that the Papiſts were not able to
+reſiſt the Wiſdom and Spirit by which they ſpake, they reſolved to
+choak the Light of the Goſpel with the Smoak of the bot<g ref="char:EOLhyphen"/>tomleſs Pit, and
+condemned them for Hereticks, adjudging them to be burned, (a very hot Anſwer
+to their Arguments.) The Lords of <hi>Bohe<g ref="char:EOLhyphen"/>mia</hi> have recourſe to the
+Emperour, complain of the unheard-of Exam<g ref="char:EOLhyphen"/>ple, and declare, That the Honour of
+the Imperial Majeſty lay at ſtake, the Faith of the Empire was enga<g ref="char:EOLhyphen"/>ged,
+and in point of Honour was to be vindicated. 
+<note place="margin">Antoninus pars 3. Chronicorum <hi>lays down the
+matter thus:</hi> Condemnati ſunt ad ignem. Et quia imperator non videbatur
+hoc aequanimiter ferre; propter ſalvum conductum eis datum; reſpondit ei
+ſacroſancta Synodus; cum ar<g ref="char:EOLhyphen"/>gui non poſſe de fide mentita; quia
+Concilium ipſum non dederat iis ſalvum conductum, &amp; Concilium majus
+eſt Imperatore, &amp;c. Cui de<g ref="char:EOLhyphen"/>terminationi ut bonus Eccleſiae filius
+acquievit, &amp;c.</note> 
+               <note place="margin">Conc. Conſt. Seſſ. 19. Declarat ſancta
+Synodus ex ſalvo conductu per Imparatorem; aut alios Prin<g ref="char:EOLhyphen"/>cipes haereticis
+conceſſo, nullum fidei Chriſtianae aut jurisdictioni Eccleſiae
+praejudicium generari poſſe aut debere; qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minus liceat judici Eccleſiaſtico de hujuſmodi perſonarum
+er<g ref="char:EOLhyphen"/>roribus inquirere; eoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> punire, quantum juſtitia ſuadebit; ſi
+errores ſuos revecare pertinaciter noluerint, etiamſi de ſalvo conductu
+confiſi ad locum venerint judicii, alias non venturi. <hi>Nec ſic
+Promittentem quum fecerit quod in ipſo eſt, ex hoc remanere
+obligatum.</hi>
+               </note> The Emperour be<g ref="char:EOLhyphen"/>ſtirs himſelf, and interpoſes with
+the Council, but at laſt the Phyſitian of <hi>Rome</hi> ſalves the
+Emperours ſcruples, and with thoſe Catholick Fathers (upon mature
+deliberation) lays <pb facs="tcp:106004:3"/>down this Catholick Deciſion, as a Catholick
+Maxime of their Catholick Religion (Can. 19. Conc. <hi>Conſt.</hi>) <hi>Fidem
+non eſſe ſer<g ref="char:EOLhyphen"/>vandam Haereticis;</hi> No faith is to be kept with
+Hereticks: So they called them, and ſo they call us. And ſo this Catholick
+Declararion of his Holineſs and his Council, will warrant them never to keep
+any Oath, Faith, or Promiſe, with us, but ſtill to be treacherous,
+perfidious and rebellious, as long as a Proteſtant lives, and to be like
+<hi>Dan, a ſerpent by the way, and an adder in the path, that bites the
+horſe heels, ſo that his rider ſhall fall back<g ref="char:EOLhyphen"/>ward,</hi> Gen. 49.17.</p>
+            <p>The Ring-leaders in this Catholick Miſchief were Prieſts and
+Fryars, (I ſpeak not univerſally of all, for ſome condemned it as
+abominable) but ſuch there were, Incendiaries, Captains of Troops,
+high-way-Robbers, and high-way-Murtherers; they had learned of Pope
+<hi>Julius</hi> the Second, to caſt away <hi>Peter</hi>'s Keys, and to take
+<hi>Paul</hi>'s Sword; they left the Maſs, which they call an unbloody
+Sacrifice, and ſlew, murthered and ſacrificed men, women and children, a
+bloody Sacrifice indeed; and thus they raged promiſcuouſly againſt all,
+and the ſcarlet <hi>whore was made drunk with the blood of the
+Saints.</hi>
+            </p>
+            <p>The Maſſacre of <hi>Paris</hi> was tragical and bloody enough,
+it was of 60000 perſons; and that (they ſay) as a gallant and heroick Act,
+was pictured in the Popes Pallace: but this Tra<g ref="char:EOLhyphen"/>goedy being ſo univerſal,
+and of ſo vaſt a number, ſo many thou<g ref="char:EOLhyphen"/>ſands, there was no room left for
+it in the Popes Houſe, but it ſhall not want a <hi>Memorandum</hi> in our
+Hearts for ever.</p>
+            <p>They ſhewed their inveteracie and implacable hatred againſt
+the very Name of Engliſh; they were cruel to the very Beaſts and Cattel
+that were of Engliſh ſtrain, and in ſome places they would not
+preſently kill them, but now and then cut Collops out of them, and ſo let
+them run and roar to death. And they dealt with ſome men as with the
+beaſts, they broke their backs, and ſo left them in the fields to graze,
+and when they had eaten<pb facs="tcp:106004:4"/>round about them, they would not kill them,
+but remove them to better paſture. Multitudes of all ſorts they
+diſpatched and killed out right, many they left half dead, intreating for
+many days for no other favour at their hands but death, but that was refuſed.
+Amongſt thoſe thouſands thus tortured, tormented, hanged, and drowned,
+and burned, I cannot but remember that horrid Murther at <hi>Port a down,</hi>
+where (beſides thoſe whom they drowned to make them ſport) they continued
+that act of drown<g ref="char:EOLhyphen"/>ing for ſeven or eight weeks together. It hath been
+credibly reported by many, that dayly and nightly Viſions were there ſeen,
+repreſenting the men, women and children whom they had drowned, ſometimes
+ſinging Pſalms, ſometimes brandiſhing naked Swords, ſometimes
+ſcritching in a fearful manner; the very Rebels that dwelt near the place
+confeſſed it, and were ſo terrified with thoſe dayly Apparitions, that
+they were forced to remove their dwellings: But the Prieſts and Fryars to
+make the matter ſound the better in the ears of their ſeduced
+Proſe<g ref="char:EOLhyphen"/>lytes, told them it was the cunning ſleight of the Devil to hinder
+the great work of propagating the Catholick Religion, and killing the
+Hereticks. And indeed theſe two muſt go to<g ref="char:EOLhyphen"/>gether, they cannot propagate
+their Catholick Doctrine, but by our deſtruction: If the Proteſtants
+ſtand, <hi>Rome</hi> muſt fall; but if <hi>Rome</hi> ſtand, <hi>Rome</hi>
+will be ſtill contriving our fall.</p>
+            <p>(I muſt write one thing in a Parentheſis, becauſe it is not
+fit to come into the ſentence, and that is the prodigious and un<g ref="char:EOLhyphen"/>heard-of
+villanies which they acted with women even after they were dead.) In a word, I
+may ſay of thoſe many prodigious Villanies, ſavage Cruelties, and
+barbarous Inhumanities, which they without any ſcuple commonly and generally
+acted, as the Poet ſaid, 
+<q>
+                  <pb facs="tcp:106004:4"/> 
+                  <l>Saevior es triſti Buſiride; ſaevior illo;</l> 
+                  <l>Qui falſum lenio torruit igne bovem.</l> 
+                  <l>Qui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> bovem Siculo fertur donaſſe tyranno;</l> 
+                  <l>Et dictis artes conciliaſſe ſuas.</l> 
+                  <l>Non mihi ſi centum linguae ſint; ora<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> centum;</l> 
+                  <l>Ferrea vox.</l>
+               </q>
+            </p>
+            <p>If I had an hundred Tongues, and a Voyce of Thunders, I could not
+ſpeak all that they have acted, and others ſuffered in the time of the late
+unparallelled Rebellion. My Lords, the Lord hath preſerved you and us in the
+midſt of the over-flow<g ref="char:EOLhyphen"/>ing waters of <hi>Jordan,</hi> that the waters of the
+proud have not gone over our ſoul. Our Danger was great, our Deliverance was
+great, and therefore we ſhould endeavor to render to the Lord according to
+the great Bleſſings we have received. This is the ſum and ſubſtance
+of the following Sermon, which I hum<g ref="char:EOLhyphen"/>bly offer unto Your Honours. Now He that
+keepeth Iſrael, watch over You continually, guide You here with his
+Counſel, and after receive You to glory. This is the Prayer of</p>
+            <closer>
+               <signed>Your Honours unworthy Servant, W.
+LIGHTB<g ref="char:V">Ʋ</g>RN.</signed> 
+               <dateline>From my Study in S. <hi>Audoens</hi> Arch, 
+<date>Octob. 25. 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106004:5"/>
+            <pb n="1" facs="tcp:106004:5"/>
+            <head> 
+               <q>
+                  <bibl>EXOD. XVIII. X.</bibl> 
+                  <p>And Jethro ſaid, Bleſſed be the Lord who hath delivered you
+out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath
+delivered the people from un<g ref="char:EOLhyphen"/>der the hand of the Egyptians.</p>
+               </q> 
+            </head>
+            <p>THE Book of <hi>Exodus</hi> may be divided into two parts,
+Hiſto<g ref="char:EOLhyphen"/>rical and Dogmatical; the Hiſtorical part is laid down in this and
+the ſeventeen preceeding Chapters, the Dogma<g ref="char:EOLhyphen"/>tical part begins in the next
+Chapter. The Hiſtorical part is a Compendium, or a ſummary Recaptitulation
+of the re<g ref="char:EOLhyphen"/>markable paſſages of the Lords providential actings to<g ref="char:EOLhyphen"/>wards
+Iſrael in the time of their aboad in <hi>Egypt,</hi> their coming out of
+<hi>Egypt,</hi> and their travels in the Wilderneſs.</p>
+            <p>In the beginning of this Chapter we have a relation of
+<hi>Jethro</hi>'s journey to viſit <hi>Moſes</hi> his Son-in-law;
+<hi>Moſes</hi> Declaration of the goodneſs of God to Iſrael, and
+<hi>Jethro</hi>'s return of praiſe.</p>
+            <p>
+               <hi>Jethro</hi> comes to <hi>Rephidim,</hi> Num. 33.14. (the
+eleventh ſtage where Iſ<g ref="char:EOLhyphen"/>rael pitched after their coming out of
+<hi>Egypt</hi>) and that is (as Geographers account) but ſixteen miles from
+the City of <hi>Midian,</hi> the place of <hi>Jethro</hi>'s reſidence.</p>
+            <p>When <hi>Moſes</hi> was given to underſtand of
+<hi>Jethro</hi>'s coming, he goes forth to meet him; wherein (by the way) we
+may note, 1. <hi>Moſes</hi> humility, who being ſo great a Prince,
+Commander in chief of ſo great a People, yet diſ<g ref="char:EOLhyphen"/>dains not to humble
+himſelf not onely <hi>to go out to meet him,</hi> but alſo to do
+<hi>obeyſance unto him.</hi> 2. His love, <hi>he kiſſed him.</hi> 3. His
+humanity, gentleneſs and curteſie, <hi>he asked him of his welfare.</hi> 4.
+His hoſpitality and beneficence, <hi>he brought him into his tent.</hi> 5.
+His gratitude, he maketh a thankful <hi>rehear<g ref="char:EOLhyphen"/>ſal</hi> and
+<hi>repetition</hi> of Iſraels wonderful <hi>deliverance.</hi> 6. We have an
+intimation<pb n="2" facs="tcp:106004:6"/>of his patience under the afflictions of Iſrael.
+7. His fidelity in all God's houſe; he teaches others by his Example to
+celebrate the praiſes of God, his mercie and his goodneſs, and not to fall
+into deſpondencie under the preſſure of the greateſt afflictions, but
+to rely upon the promiſes, to de<g ref="char:EOLhyphen"/>pend upon God, and to commit the iſſue
+to him; knowing <hi>it is but a little while, and then he that ſhall come
+will come, and will not tarry,</hi> Heb. 10.37. All this we have in the 8th
+<hi>verſe.</hi> Thus <hi>Moſes</hi> informs <hi>Jethro</hi> in the
+Hiſtory of the Church, and <hi>Jethro</hi> adviſes <hi>Moſes</hi>
+touching the adminiſtration of the Commonwealth, <hi>verſ.</hi> 19.
+<hi>&amp;c. ſeq.</hi>
+            </p>
+            <p>Then <hi>Jethro</hi> is deſcribed, 1. by his proper Name
+<hi>(Jethro,)</hi> 2. by the name of his Office <hi>(a Prieſt,)</hi> 3. by
+the place where he exerciſed his Prieſt<g ref="char:EOLhyphen"/>hood <hi>(in Midian,) verſ.</hi>
+1. The <hi>Midianites</hi> were of the progeny of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> by
+<hi>Keturah,</hi> Gen. 25.2. and therefore <hi>Jethro</hi> may be preſumed to
+have ſome meaſures of knowledge of the true God, though he lived among a
+people that were drunk with idolatry, and drowned in the Errors of heatheniſh
+ſuperſtitions, 1. Becauſe he came from the loyns of <hi>Abraham,</hi> of
+whom the Lord gives this Character, <hi>Gen.</hi> 18.19. <hi>I know that
+Abraham will command his children, and his houſhold after him, and they
+ſhall keep the way of the Lord, to do juſtice and judgement, that the Lord
+may bring upon Abraham that which he hath ſpoken of him.</hi> 2. Becauſe of
+his long converſing with <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſes.</hi>If any object that expreſſion <hi>verſ.</hi> 11.
+<hi>Now I know that the Lord is great,</hi> &amp;c. I anſwer: This is no
+argument that he knew not the greatneſs and goodneſs of JEHOVAH before this
+time, but that he knew it now, that is, more evidently, more conſpicuouſly,
+and by a new demonſtration; it argues an encreaſe and corroboration of his
+faith, and that now his former knowledge was ſealed up by a new argument and
+experiment, how great the Lord is in his power, in delivering his people; and
+how terrible he is in his Majeſty, in confounding their enemies. Such an
+expreſſion is uſed <hi>Act.</hi> 10.34. <hi>Now I perceive that God is no
+reſpecter of perſons; Peter</hi> knew this before, but he is ſaid to know
+it now, becauſe he knew it anew, by a new miracle, by anew viſion and
+revelation. And ſo 1 <hi>King.</hi> 17.24. the wo<g ref="char:EOLhyphen"/>man of <hi>Zarephath</hi>
+ſays, <hi>Now by this I know that thou art a man of God;</hi> ſhe knew it
+before, by the multiplying of the meal in the barrel, and the oyl in the
+cruſe, <hi>verſ.</hi> 14.15,16. but ſhe ſays, I know it now; that is,
+by a new miracle, by raiſing my dead ſon to life. And <hi>Pſal.</hi>
+20.7. <hi>Now know I that the Lord ſaveth his anointed,</hi> &amp;c.
+<hi>David</hi> knew this before, but he is ſaid now to know it, becauſe he
+then knew it by a new ſalvation, by a new delive<g ref="char:EOLhyphen"/>rance.</p>
+            <p>The Text contains <hi>Jethro</hi>'s Doxology for Iſrael's
+Deliverance. 1. <hi>Je<g ref="char:EOLhyphen"/>thro rejoyced,</hi> v. 9. Hebr. <hi rend="blackletterType">Vaiichad,</hi> Gr.
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he was aſtoniſhed, he was
+(as<pb n="3" facs="tcp:106004:6"/>it were) in an extaſie, that imports the greatneſs of
+his wonder and admi<g ref="char:EOLhyphen"/>ration at ſuch a ſtupendious Act. 2. He expreſſes
+his joy by burſting forth into praiſes, <hi>Bleſſed be the Lord,</hi>
+&amp;c. 3. He lays down the grounds and reaſons; 1. the deliverance of the
+Iſraelites from the hand of the E<g ref="char:EOLhyphen"/>gyptians; 2. the deſtruction of the
+Egyptians before the face of Iſrael, <hi>v.</hi> 11. 4. He offers Sacrifices
+and Burnt-offerings; and ſo he rejoyces <hi>Corde, Ore, &amp; Opere,</hi> in
+Heart, in Word and in Work, <hi>v.</hi> 12. 5. <hi>Aaron</hi> and all Iſrael
+rejoyce with him, in the laſt part of the 12th verſe.</p>
+            <p>
+               <hi>Doct.</hi> Hence we learn, That it is a Duty incumbent upon
+all, <hi>Jethro</hi> and <hi>Moſes, Aaron</hi> and <hi>Iſrael,</hi>
+Prieſt and People, to bleſs God, and to make his praiſe to be glorious,
+when he glorifies his mercie in delivering his Church; we are then to praiſe
+God greatly, when he gives us great De<g ref="char:EOLhyphen"/>liverances; then it is ſeaſonable to
+ſing a <hi>Benedictus, Bleſſed be the Lord, who hath delivered his people
+from the hand of the Egyptians,</hi> &amp;c. So <hi>Pſal.</hi> 66.8. <hi>O
+bleſs our God, ye people, and make the voyce of his praiſe heard, which
+holdeth our ſoul in life, and ſuffereth not our feet to be moved: for thou,
+O God, haſt proved us, thou haſt tried us as
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lver is tryed; thou broughteſt
+us into the net, thou layedſt affliction upon our loyns; that haſt cauſed
+men to ride over our heads, we went through fire and through water,</hi>
+&amp;c. Here is great affliction, the net, men riding over their heads,
+paſſing through fire, and through water, (great Dangers) then great
+Deliverances, <hi>v.</hi> 12. <hi>Thou broughteſt us out into a weal<g ref="char:EOLhyphen"/>thy
+place;</hi> therefore they ſing great praiſes, <hi>v.</hi> 13. <hi>I will
+go into thy houſe with burnt-offerings, I will pay thee my vows which my lips
+have uttered when I was in trouble; I will offer thee burnt ſacrifices of
+fatlings, with the incenſe of rams, I will offer bullocks and goats:</hi> and
+then he concludes with a <hi>Benedictus, Bleſ<g ref="char:EOLhyphen"/>ſed be God, v.</hi> 20. I
+might multiply Scriptures for further evidences of this truth, but this may
+ſuffice.</p>
+            <p>Now to come to the Reaſons and Arguments of the point Why is
+this a duty incumbent upon all? Why are we then to ſing great praiſes, when
+the Lord gives us great Deliverances? 1. Becauſe by ſo doing, we glorifie
+God, <hi>Pſal.</hi> 50.23. <hi>Whoſo offereth praiſe, he glorifieth
+me.</hi> Thus did <hi>David,</hi> 1 Chron. 29.10. <hi>Benedictus, Bleſſed
+be thou, O Lord God of Iſrael our father, for ever and ever. Thine, O Lord,
+is the greatneſs, and the power, and the glory, and the victory, and the
+Majeſty: for all that is in the heaven and in the earth is thine, thine is
+the kingdom, O Lord, and thou art exalted as head above all.</hi> God requires
+not our Wiſdom to direct him, nor our ſtrength to aſſiſt him, nor our
+dignity to advance him; but our thankfulneſs to adore him. Grace requires
+Gratitude; when God extends his bountifulneſs, we are to be inlarged in our
+thankfulneſs; when Benefits are gotten, the Benefactors muſt not be
+forgotten: we muſt glorifie God, and <hi>ſing praiſes<pb n="4" facs="tcp:106004:7"/>to
+him that is holy, and that inhabiteth the praiſes of Iſrael,</hi> Pſal.
+22.4.</p>
+            <p>Secondly, Why is it ſo? <hi>&amp;c.</hi> It is becauſe ſuch
+return of bleſſing, thanks and praiſes is Gods tribute, that pepper-Corn
+of acknowledgement, that all we have, we hold in <hi>Capite,</hi> we have it
+from him <hi>from whom every good gift and every perfect gift doth deſcend,
+even from him who is the father of lights,</hi> Jam. 1.17. and the detaining of
+this tribute is no leſs then God-robbing, and the Apoſtles exhortation is,
+<hi>Let him that ſtole ſteal no more,</hi> Epheſ. 4.28. It is Gods
+tribute, <hi>Pſal.</hi> 50.14,15. <hi>Offer unto God thanksgiving, and pay
+thy vows to the moſt high: And call upon me in the day of trouble, and I will
+deli<g ref="char:EOLhyphen"/>ver thee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and thou ſhalt
+glorifie me.</hi> Thus <hi>Melchiſedeck</hi> King of <hi>Salem,</hi> and
+Prieſt of the moſt high God, pays his tribute, and returns praiſe for
+<hi>Abra<g ref="char:EOLhyphen"/>hams deliverance</hi> from the ſword of the four Kings that fought
+againſt <hi>So<g ref="char:EOLhyphen"/>dom; Benedictus Deus fortis excelſus, Bleſſed be the
+moſt high ſtrong God,</hi> Gen. 14.20. And the Prophet <hi>Habakkuk</hi>
+(ſeeing by the perſpective of Prophe<g ref="char:EOLhyphen"/>ſie) the deliverance of the Church
+from the Captivity of <hi>Babel,</hi> pays his tribute before-hand, and
+bleſſes God greatly for that great deliverance, <hi>Hab.</hi> 3.17,
+<hi>&amp;c. David</hi>'s Pſalmes are ſo many ſtore-houſes of Examples:
+Every Pſalm (as one notes) is either an <hi>Hoſanna,</hi> or elſe an
+<hi>Hallelujah;</hi> either <hi>God bleſs,</hi> or <hi>God be
+bleſſed;</hi> either <hi>Prayers,</hi> or <hi>Praiſes;</hi> either
+<hi>Pray<g ref="char:EOLhyphen"/>ers</hi> for Mercies, or <hi>Praiſes</hi> for Mercies.</p>
+            <p>Thirdly, Becauſe thankfulneſs for Mercies or Deliverances
+received, is <hi>honum &amp; jucundum;</hi> it is <hi>fit, meet,</hi> and
+<hi>decent; it is a good and pleaſant thing,</hi> Pſal. 92.1. <hi>It is a
+good thing to give thanks unto the Lord, and to ſing praiſes un<g ref="char:EOLhyphen"/>to thy
+name, O moſt high; to ſhew forth thy loving kindeneſs in the morning, and
+thy faithfulneſs in the night: for thou, Lord, haſt made me glad through
+thy work, and I will give thanks for the operation of thy hands:</hi> It is
+good and pleaſant; it is <hi>Mel in One, Melos in Aure, Jubilatio in
+Corde,</hi> Honey in the Mouth, Muſick in the Ear, and Melody in the Heart.
+And therefore the Apoſtle exhorts us, <hi>Epheſ.</hi> 5.19,20. <hi>Speak to
+your ſelves in Pſalms, and Hymns, and ſpiritual ſongs, ſinging and
+making melody in your hearts to the Lord, giving thanks always for all things
+unto God, and the Father, in the Name of our Lord Jeſus Chriſt;</hi> and
+<hi>Col.</hi> 3.16. <hi>Let the word of God dwell in you richly, in all
+wiſdom, teaching and admoniſhing one another in Pſalms and Hymns, and
+ſpiri<g ref="char:EOLhyphen"/>tual Songs, ſinging with grace in your hearts to the Lord.</hi> Thus
+did <hi>David</hi> ſing with grace in his heart, <hi>Pſal.</hi> 108.1.
+<hi>O God, my heart is fixed, my heart is fixed; I will ſing and give
+praiſe, even with my glory. I will praiſe thee, O Lord, amongſt the
+people; and I will ſing praiſes unto thee among the nations: For thy mercie
+is great above the heavens, and thy truth reacheth unto the clouds. Be thou
+exalted, O God, above the heavens, and thy glory above all the earth.</hi>
+            </p>
+            <p>Fourthly, The very Dictates of Nature teach us gratuity and
+thankful<g ref="char:EOLhyphen"/>neſs<pb n="5" facs="tcp:106004:7"/>to our Benefactors. <hi>All rivers</hi>
+(ſaith the wiſe man) <hi>come from the ſea, and all rivers</hi> (by way
+of a thankful Retribution) <hi>return and empty their wa<g ref="char:EOLhyphen"/>ters into the
+Sea.</hi> God is the main Ocean, the great ſea of all bleſſings, all
+Rivers of bleſſings flow from him, and therefore (according to the very
+dictates of Nature) ought to be returned unto him. <hi>Pſal.</hi> 93.3.
+<hi>The floods have lifted up, O Lord, the floods have lifted up their voice.
+Ainſworth (in locum)</hi> tells us, That the Chaldee hath it thus: <hi>The
+floods have lifted up their voice of praiſes to God, and the floods have
+received the reward of their praiſes from God,</hi> Pſal 91.1. <hi>The
+heavens declare the glory of God,</hi> Pſal. 96.12. Pſal. 98.7. Pſal.
+148. There is a general ſummons and invitation, not onely of all ſorts of
+men, but alſo all manner of Creatures to this duty, and to joyn together in
+this Harmony, to give praiſes to God, and to make the voice of his praiſe
+to be glorious.</p>
+            <p>Fifthly, Becauſe ingratitude and unthankfulneſs (even among
+Barbari<g ref="char:EOLhyphen"/>ans) hath been ever reputed a monſtrous thing; it is a preternatural
+thing, one of thoſe Privations and Deficiencies which GOD never wrought, but
+the malice of the Devil brought into the world, by ſhouldering out the
+contrary poſitive and primitive Virtues. We ſpeak of an unthankful perſon
+with more then ordinary deteſtation, and account an ungrateful per<g ref="char:EOLhyphen"/>ſon, an
+unnatural man. One phraſes Ingratitude a <hi>Soleciſm</hi> in ſence, a
+<hi>Paradox</hi> in manners, and a <hi>Prodigie</hi> in nature. See how the
+Lord deteſts and abominates it, and calls the Heavens and the Earth to
+witneſs againſt it; <hi>Iſa.</hi> 1.2. <hi>Hear, O Heavens, and give ear,
+O Earth; for the Lord hath ſpo<g ref="char:EOLhyphen"/>ken: I have nouriſhed and brought up
+children, and they have rebelled againſt me, the Ox knoweth his Owner, and
+the Aſs his Maſters crib;</hi> (they know their Benefactors) <hi>but
+Iſrael doth not know, my people doth not conſider.</hi> And the Lord (by
+the Prophet <hi>Micah</hi>) calls upon the <hi>mountains,</hi> and the
+<hi>ſtrong foun<g ref="char:EOLhyphen"/>dations</hi> of the earth to liſten &amp; attend to the
+<hi>plea</hi> &amp; <hi>controverſie</hi> he hath with them that were called
+his people, for their <hi>monſtrous ingratitude,</hi> Mich. 6.1. <hi>Hear ye
+now what the Lord ſaith: Ariſe, contend thou before the mountains and let
+the hills hear thy voice. Hear ye, O ye mountains, the Lords controver<g ref="char:EOLhyphen"/>ſie,
+and ye ſtrong foundations of the earth: for the Lord hath a controverſie
+with his people, and he will plead with Iſrael: O my people, what have I done
+unto thee? teſtifie againſt me. For I brought thee up out of the land of
+Egypt, and redeemed thee out of the houſe of ſervants; and I ſent before
+thee Moſes, A iron and Miriam: O my people, remember now what Balak king of
+Moab conſulted, and what Balaam the Son of Beor anſwered him from Shittim
+unto Gilgal, that ye may know the righteouſneſs of the Lord<g ref="char:punc">▪</g>
+               </hi> Here
+the Lord upbraids them with their monſtrous and more then beaſtly ſin of
+ingratitude, and calls the inſenſible creatures to witneſs againſt
+them, and the Pſalmiſt, <hi>Pſal.</hi> 78.11.<pb n="4" facs="tcp:106004:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:106004:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:106004:9"/>
+               <hi>They forgat his
+works and his wonders that he had ſhewed them; marvelous works did he in the
+ſight of their fathers,</hi> &amp;c. <hi>but v.</hi> 32. <hi>for all this
+they ſinned ſtill, and believed not his wonderous works,</hi> v. 42.
+<hi>They remembred not his hands nor the day when he delivered them from the
+enemy; how he had wrought his ſignes in Egypt, and his wonders in the field
+of Zoan,</hi> &amp;c. That is the fifth Argument, taken from the nature of the
+ſin of Unthankfulneſs; it is a monſtrous and horrid ſin.</p>
+            <p>Sixthly, Another Argument may be taken from the example of Saints.
+and here (to uſe the Apoſtles phraſe) we have
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (Arias Montanus)
+<hi>circumjacentum nubem teſtium;</hi> or as <hi>Beza, Circumſtan<g ref="char:EOLhyphen"/>tem
+nubem; We are compaſſed about with a cloud of witneſſes.</hi> When they
+received Mercies, and Bleſſings, and Deliverances, they looked up and
+re<g ref="char:EOLhyphen"/>turned Bleſſings to him that was the Fountain of thoſe Bleſſings
+and Deli<g ref="char:EOLhyphen"/>verances: They did not (<hi>Hab.</hi> 1.16.) <hi>ſacrifice to their
+own nets, or burn in<g ref="char:EOLhyphen"/>cenſe to their own drags, as though their portion was
+made fat, or</hi> their meat plentious <hi>by them;</hi> they did not aſcribe
+it to their own ſword, or their own bow, but to him who is the Saviour of
+Iſrael, the Deliverer of thoſe that truſt in him, <hi>Pſal.</hi> 44.1.
+<hi>We have heard with our ears, O God, our fathers have told us what works
+thou didſt in their days, in the times of old, how thou didſt drive out the
+heathen with thy hand, and plantedſt them, how thou didſt afflict the
+people, and caſt them out. For they got not the land in poſſeſſion by
+their own ſword, neither did their own arm ſave them; but thy right hand,
+and thine arm, the light of thy countenance, becauſe thou hadſt a favour
+unto them.</hi> V. 6. <hi>I will not truſt in my bow, it is not my ſword
+that ſhall ſave me. But thou haſt ſaved us from our enemies, and haſt
+put them to confuſion that hated us. Therefore in God we make our boaſt all
+the day long, and will praiſe thy name for ever.</hi>
+            </p>
+            <p>Secondly, They did not onely thankfully acknowledge that their
+Deli<g ref="char:EOLhyphen"/>verances came from Heaven, and offer up the Sacrifice of Praiſe,
+<hi>Jehovae liberatori,</hi> to God that delivered them; but alſo they did
+it, <hi>in die illo, in the ſame day.</hi> The ſame day in which they were
+delivered, the ſame day was the day of their thankſgiving. <hi>Seneca</hi>
+tells us that <hi>thanks deferred or ſlowly returned, leſſens the
+eſtimation of the benefit received, and is no thanks;</hi> and therefore the
+people of God delayed not, but offered their Sacrifice of praiſe, <hi>in die
+illo, the ſame day</hi> in which they received their deliverance.
+<hi>Exod.</hi> 14.30. <hi>Thus the Lord ſaved Iſrael on that day out of the
+hand of the E<g ref="char:EOLhyphen"/>gyptians.</hi> And on that day <hi>Moſes</hi> and Iſrael
+returned a Sacrifice of praiſes for that Deliverance; <hi>Exod.</hi> 15.1.
+<hi>Then (in die illo) ſang Moſes and the chil<g ref="char:EOLhyphen"/>dren of Iſrael this ſong
+unto the Lord, and ſpake ſaying, I will ſing unto the Lord, for he hath
+triumphed gloriouſly,</hi> &amp;c. <hi>Lyra</hi> notes (upon the Text) that 
+<pb n="7" facs="tcp:106004:9"/>they did not onely ſing praiſes, but they alſo
+<hi>invited one another, ſtirr'd up one another to the ſame,</hi> according
+to that of the Prophet, <hi>Pſal.</hi> 34.3. <hi>O magnifie the Lord with me,
+and let us exalt his Name together.</hi> The like Ex<g ref="char:EOLhyphen"/>ample we have in
+<hi>Deborah</hi> and <hi>Barak,</hi> Judg. 5.1. The Lord had given Iſ<g ref="char:EOLhyphen"/>rael a
+great deliverance from <hi>Siſera,</hi> who had nine hundred Chariots of
+Iron, and twenty years had mightily oppreſſed the children of Iſrael,
+<hi>Judg.</hi> 4 3. <hi>Then</hi> (ſays the Text) <hi>ſang Deborah and
+Barak the ſon of Abinoam (on that day) ſaying, Praiſe ye the Lord for the
+avenging of Iſrael:</hi> They ſang praiſes <hi>in die illo, on that
+ſame day</hi> on which the Lord delivered them. And the practiſe of
+<hi>David</hi> was the ſame, as we ſee in the inſcription of
+<hi>Pſal.</hi> 18. <hi>A Pſalm of David the Servant of the Lord, who
+ſpake unto the Lord the words of this ſong IN THE DAY that the Lord
+delivered him out of the hand of all his enemies, and from the band of
+Saul,</hi> &amp;c. He ſang praiſes <hi>in die illo,</hi> on the ſame day
+on which he received his deliverance. The ſame we finde in the practiſe of
+religious <hi>Hezekiah,</hi> 2 Chron. 20.26. Thus they praiſed God for their
+deliverances, they returned the Rivers of thanks to the Sea of Bleſ<g ref="char:EOLhyphen"/>ſings;
+and delayed not their returns, but offered <hi>Sacrificium laudis,</hi> their
+ſacrifice of praiſe to the Lord, at the ſame day and time that they were
+delivered.</p>
+            <p>Thirdly, They did not onely bleſs God for his Bleſſings by
+themſelvess and in their own perſons, but it was their practice to preach
+their mercie, and deliverances to their children, and ſo one generation to
+another, that the thankful memorial and remembrance of them might never die,
+but be perpetuated to all poſterity. This was the Precept of God frequently
+re<g ref="char:EOLhyphen"/>peated in the Book of <hi>Deuteronomy:</hi> there (after a rehearſal of
+the many Bleſſings and Deliverances which the Lord had given them) the Lord
+gives them a charges, <hi>Deut.</hi> 4.9. <hi>Take heed to thy ſelf, and keep
+thy ſoul diligently, leſt thou forget the things which thine eyes have
+ſeen, and leſt they depart from thine heart, all the days of thy life; but
+teach them to thy ſans and to thy ſons ſons.</hi> And this was their
+practiſe, <hi>Pſal.</hi> 44.1. <hi>We have heard with our ears, O God, our
+fathers have told us what work thou didſt in their days, in the time of old;
+how thou didſt drive out the heathen with thy hand, and plantedſt them, how
+thou didſt afflict the people, and caſt them out,</hi> &amp;c. And
+<hi>Pſal.</hi> 78.3. <hi>I will ſpeak that which we have heard and known,
+and our fathers have told us; we will not hide them from their children,
+ſhewing to the generations to come the praiſes of the Lord, and his
+ſtrength, and his wonderful works that he hath done: the Lord commanded our
+fathers that they ſhould make them known to their chil<g ref="char:EOLhyphen"/>dren, that the
+generations to come might know them, even the children which ſhould be born,
+who ſhould ariſe and declare them to their children,</hi> &amp;c.
+<hi>Pſal.</hi> 102.18. <hi>This ſhall be written for the generations to
+come, and the people that ſhall be cre<g ref="char:EOLhyphen"/>ated<pb n="8" facs="tcp:106004:10"/>ſhall
+praiſe the Lord.</hi> Thus the people of God did not onely return thanks in
+an heat for their deliverances, whiles the memory of the mercie was freſh,
+but they made frequent and ſerious rehearſals of them to their children,
+and their childrens children, that for the mercie beſtowed upon many, thanks
+alſo might be given by many, 2 <hi>Cor.</hi> 1.11.</p>
+            <p>Fourthly, That they might for ever retain in a thankful
+remembrance ſuch gracious deliverances, and that the generations to come, and
+the chil<g ref="char:EOLhyphen"/>dren which ſhould be born might praiſe the LORD for them; they had
+alſo annuall feſtivities and ſtationary days, which they (yearly) kept
+ho<g ref="char:EOLhyphen"/>ly to the Lord, and on ſuch days thankfully celebrated the goodneſs of
+God for the particular mercies and deliverances received on thoſe days; as
+the annual Feſtivity of the <hi>Paſſeover, Pentecoſt, Expiation,
+Tabernacles, Trum<g ref="char:EOLhyphen"/>pets,</hi> &amp;c. all of them inſtituted to be thankful
+memorials of ſpecial mer<g ref="char:EOLhyphen"/>cies relating to thoſe days and times. So
+<hi>Exod.</hi> 12.14. <hi>This day ſhall be to thee for a memorial, and you
+ſhall keep it a feaſt to the Lord throughout your ge<g ref="char:EOLhyphen"/>nerations, you ſhall
+keep it a feaſt by an ordinance for ever.</hi> Here we have an Ordinance for
+an anniverſary feſtival, a day yearly and every year, to be kept holy to
+the Lord, for an yearly ſolemn remembrance of the deliverance of Iſrael out
+of Egypt: <hi>(this day)</hi> note <hi>the ſame day</hi> they were delivered,
+the ſame day was to be kept (yearly) holy to the Lord for a <hi>memorial and
+a day of thanksgiving</hi> for that deliverance: <hi>(you ſhall keep it a
+feaſt)</hi> Hebr. you ſhall keep it feſtivally (that is) with mirth,
+rejoycing and jubilation (as <hi>Nehem.</hi> 8.9.12.) <hi>(you ſhall keep it
+by an ordinance for ever)</hi> Hebr. an <hi>everla<g ref="char:EOLhyphen"/>ſting ordinance,</hi> an
+<hi>ordinance of perpetuity,</hi> extending to all generations, <hi>Exod.</hi>
+12.17. <hi>This ſelf ſame day have I brought out your Armies out of Egypt,
+therefore ſhall ye obſerve this day in your generations by an ordinance for
+ever;</hi> and the ſame is repeated <hi>v.</hi> 24. So here we ſee a day
+was yearly and every year to be kept holy to the Lord by the ordinance of God,
+in a thankful and mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſolemn
+remembrance of Iſraels deliverance from the hand of the Egyptians: Nay, and
+more then this, howſoever Feſtivals and holy days have been in our times
+cried down by ſome, (as <hi>Popiſh,</hi> matters of
+<hi>Super<g ref="char:EOLhyphen"/>ſtition</hi> and <hi>Will-worſhip,</hi> for which we have
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ordinance or command from God)
+yet we finde the ancient Church hath from time to time, according to the
+emergent occaſion, without any expreſs ordinance or commandment of God,
+laudably and religiouſly appointed certain days to be kept yearly holy to the
+Lord in a thankful commemoration of mercies and deliveran<g ref="char:EOLhyphen"/>ces received upon
+<hi>thoſe days;</hi> and ſuch are the fifth of <hi>November,</hi> and the
+three and twentieth of <hi>October</hi> with us, days appointed to be kept holy
+e<g ref="char:EOLhyphen"/>every year for ever, in a thankful remembrance of our <hi>Deliverances</hi>
+on <hi>thoſe days.</hi> So the days of <hi>Purim</hi> were ordained to be
+kept as <hi>Feſtivals,</hi> and <hi>holy<pb n="9" facs="tcp:106004:10"/>to the Lord;</hi>
+by all the Jewes, in a <hi>thankfull</hi> and <hi>joyfull remembranc</hi> of
+their <hi>deliverances</hi> from the miſchief which <hi>Haman</hi> had
+deviſed againſt them. Thoſe dayes (I ſay) were ordained and commanded
+to be kept <hi>holy</hi> by <hi>Heſter</hi> and <hi>Mordecai;</hi> and
+afterwards ratified and confirmed by the Subſcription of the whole Church; as
+an Ordinance of perpetuity to continue to all generations for ever.
+<hi>Heſt.</hi> 9.20,21,22,23,27,28. And we read. <hi>Macc.</hi> 4.59. That
+the Church and the Congregation of Iſrael (when they were delivered from
+their enemies and had reſtored the worſhip and ſervice of God, and
+dedicated the Altar, for Sacrifice) they made an Ordinance, that <hi>certain
+dayes</hi> ſhould be kept <hi>holy to the Lord year<g ref="char:EOLhyphen"/>ly,</hi> and <hi>for
+ever,</hi> in a gratefull remembrance of that mercy, and that feſtival was
+called the feaſt of <hi>dedication.</hi> If any object, the text is
+Apocryphal, and therefore ſignifies little: I anſwer, that this Act of the
+Church had our Saviors approbation, who honored it with his preſence, and
+preach<g ref="char:EOLhyphen"/>ing at that Solemnity. <hi>J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</hi> 10.22. And thus the Church in the new Teſtament hath
+inſtituted and appointed certain dayes yearly to be kept
+<hi>Feſtivalls,</hi> and <hi>holy to the Lord,</hi> in a thankfull
+remembrance, of ſome ſpeci<g ref="char:EOLhyphen"/>all and ſpirituall mercies ſolemnely to be
+celebrated on thoſe dayes, as the <hi>Nativity, Circumciſion,
+Reſurrection,</hi> and <hi>Aſcention of Chriſt,</hi> which dayes St
+<hi>Auguſtine. Ep.</hi> 118.119. avouches were obſerved by the whole Church
+of Chriſt, from the time of the Apoſtles, and by Apoſtolick tradition,
+and the primitive Apoſtolick Church (without any divine commandement that we
+read of) appointed the firſt day of the week to be the Chriſtian Sabbath,
+and I ſee no reaſon, but men may as well abrogate, and cry down that
+<hi>Feſtivall,</hi> as others that are of the ſame inſtitution, that day
+(I ſay) the primitive Apoſtolick Church ordained to be kept holy, as the
+Chriſtian Sabbath, in a thankful remembrance, of the glorious Reſurrecti<g ref="char:EOLhyphen"/>on
+of our Saviour Chriſt <hi>that day.</hi> And theſe dayes ſo ordained by
+the Church, to be kept <hi>Feſtivalls and holy to the Lord,</hi> are called
+by the Fa<g ref="char:EOLhyphen"/>thers, <hi>Feſtivall dayes, holy dayes, Solemne dayes, Sacred
+dayes, myſtical dayes,</hi> and were ſo kept and obſerved by them. Thus
+(in the fourth place, the people of God (that the memoriall of their
+deliverance might be de<g ref="char:EOLhyphen"/>rived to their poſterities) had yearly certain dayes
+ſet apart, to be kept <hi>holy to the Lord,</hi> to praiſe him for thoſe
+particular mercies.</p>
+            <p>Then fifthly, at ſuch Solemne aſſemblies, they did not onely
+reſt from their labours, and all ſervile works, and keep a day holy to the
+Lord, but alſo they expreſſed their thankfullnes, for mercies and
+deliverances; which they had received, by <hi>Singing Pſalmes</hi> and
+<hi>Hymns,</hi> and <hi>Spirituall Songs, in ſinging praiſes to their God,
+in ſinging praiſes ſinging praiſes to their King Pſal.</hi> 47.6. in
+ſinging praiſes with Inſtruments of muſick; to make<pb n="10" facs="tcp:106004:11"/>the praiſes of God to be the more glorious, and the more to raiſe
+up their ſpirits to an higher ſtrein; that their Soules and all that was
+within them might eccho forth the goodneſs of God, and praiſe his holy
+name, and men and women, and all the congregation might with more
+cherefulneſs, joyn together, in that harmony: ſo <hi>Ex.</hi> 15.1. there
+Moſes ſets the ſong, is Praecen<g ref="char:EOLhyphen"/>tor of the choire, and he &amp; all the
+men of <hi>Iſrael</hi> ſing ſeparately by themſelves, <hi>I will ſing
+unto the Lord, for he hath triumphed gloriouſly,</hi> &amp;c. and then the
+wo<g ref="char:EOLhyphen"/>men, they make an other Choire, and ſing ſeparately by themſelves
+(<hi>Miri<g ref="char:EOLhyphen"/>am</hi> the Propheteſs beginning the ſong) they ſing
+<hi>alternatim,</hi> as in a Choire, and they ſing, with muſical
+inſtruments. <hi>v.</hi> 20. And <hi>Miriam the Propheteſs the Siſter of
+Aaron, took a timbrel in her hand and all the women went out after her, with
+timbrels and with dances, and Miriam anſwered them and ſaid, ſing ye to
+the Lord, for he hath triumphed gloriouſly,</hi> &amp;c. The Doway
+tranſlators note upon the beginning of the chapter, out of <hi>Origen</hi> in
+his 6 Homily upon Exodus, <hi>that this is the firſt canticle, hat ever we
+read of, either ſacred or profane.</hi> Thus did <hi>Deborah</hi> and
+<hi>Barak</hi> after the deliverance of Iſrael from the oppreſſion of
+<hi>Si<g ref="char:EOLhyphen"/>ſera,</hi> they ſang their Pſalm of thanksgiving, Jud. 5.1. And
+thus wee read that the women ſang with muſicall inſtruments,
+<hi>alternatim,</hi> anſwering one ano<g ref="char:EOLhyphen"/>ther. 1. <hi>Sam.</hi> 18.6. <hi>The
+women came out of all the Cities of Iſrael, ſinging and dan<g ref="char:EOLhyphen"/>cing, with
+tabrets with joy, and with inſtruments of muſick</hi> (or three ſtringed
+inſtruments) <hi>and the women anſwered one another, as they played and
+ſaid,</hi> &amp;c. Thus when <hi>Jehoſaphat</hi> and the remnant of
+<hi>Juda</hi> had received a gracious de<g ref="char:EOLhyphen"/>liverance from the numerous Army of
+the Ammonites, Moabites, and Edo<g ref="char:EOLhyphen"/>mites, he and all <hi>Juda</hi> with him,
+ſang Pſalmes of thankſgiving to the Lord, for that great deliverance with
+<hi>pſalteries &amp; harps, and trumpets,</hi> 2 Chr. 20.27. <hi>they
+returned</hi> (ſaith the text) <hi>every man of Juda and Jeruſalem, &amp;
+Jehoſaphat in the forefront of them to go again to Jeruſalem with joy, for
+the Lord had made them to rejoyce over their enemies. And they came to
+Jeruſalem with Pſalteryes, and Harps, and trumpets, unto the houſe of the
+Lord.</hi> Many ſuch examples we have in Davids Pſalms, <hi>as
+Pſalms</hi> to be ſung on Neginoth, &amp; upon Nehiloth, and upon
+Sheminith, upon Gittith, upon Muthlabben, &amp;c. which were muſical
+inſtruments, uſed in ſinging praiſes, ſuch as the flute, trumpet,
+cornet, organs, virginals, &amp;c. And in particular, there are 15. Pſalms,
+called gradual pſalms, pſalmes of Aſcents, or pſalmes of degrees, which
+begin with the 120. Pſal. which are Gratulatory Pſalmes, made to be ſung
+with muſicall Inſtru<g ref="char:EOLhyphen"/>ments, for the deliverance of the Church from the
+Captivity of Babell: and the Jewes in their celebration of the Paſſeover,
+have of antient time uſed to ſing gratulatory Pſalmes, or Songs of
+thanks<g ref="char:EOLhyphen"/>giving, for the deliverance of the Church, from the bondage of Egypt. 
+<note place="margin">
+                  <hi>Sic Paulus Burgenſis</hi> in Pſal. 113.
+<hi>&amp; Buxtorf. Lex. Talmud.</hi> page. 613.</note> That is Pſal. 113.
+114, 115, 116, 117. and 118. which they call <hi>Magnum Hallelujah,</hi> 
+               <pb n="11" facs="tcp:106004:11"/>and this Song or hymn (the learned are of opinion) was the
+ſame which our Saviour and his diſciples ſung after they had celebrated
+his laſt paſſe<g ref="char:EOLhyphen"/>over; and the text will bear it, Mat. 26.30.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is <hi>hymning it,</hi> or
+ſinging <hi>the hymn,</hi> what hymn? the hymn
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that hymn which the Jews uſed
+to ſing at their three greateſt feaſts and eſpecially, at the feaſt
+of the paſſeover, and with which hymn they concluded the feaſt, and when
+our Saviour had celebrated the ſame feaſt it may well be, he concluded with
+the ſame Song, a Song of thanks<g ref="char:EOLhyphen"/>giving for Iſraels deliverances.</p>
+            <p>Then ſixtly in there their Solemnities, they ſtirred up
+themſelves to the more thankfulneſs, by reherſals, and repetitions of the
+manner or means by which they were delivered, they did ſet forth <hi>Magnalia
+&amp; Mirifica Dei,</hi> Jud. 5.11. there is a reherſall of the rightous acts
+of the Lord towards Iſrael, and the end was, that his name onely might have
+the praiſe; thus when Moſes and Iſrael Sung a Song of praiſe, to
+Jehova, for their deliverance out of the hand of the Egyptians, and from the
+hand of Pharao, a princi<g ref="char:EOLhyphen"/>pall part of that Song is to ſet forth <hi>Magnalia
+Dei,</hi> the great and won<g ref="char:EOLhyphen"/>derfull working of the Lord in that deliverance, in
+the manner, and the <hi>greatneſs of his Excellency</hi> that in his wrath
+conſumed the Egyptians like ſtubble. Ex. 15.7. <hi>That with the blaſt of
+his noſtrills he made the waters ſtand upon an heape, and the depths to be
+congealed in the heart of the Sea, that he did but bl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w with his winde, and the Sea covered them and they
+ſanke as lead <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the mighty
+waters,</hi> he did but <hi>ſtretch out his hand, his right hand, and the
+earth ſwallowed them,</hi> and thereupon they ſing, <hi>who is like unto
+thee O Lord among the Gods? who is like unto thee glorious in holineſs?
+fearefull in prai<g ref="char:EOLhyphen"/>ſes, doing wonders? v.</hi> 11. And the prophet David
+making a thankfull memoriall of that great deliverance, invites all men to come
+and ſee, and conſider <hi>Magnalia &amp; Mirabilia Dei,</hi> the wonderfull
+workings of God, in bringing to paſſe that great deliverance. Pſal. 66.1.
+<hi>Make a joyfull noiſe, unto God, all ye Lands; ſing for the honour of
+his name, make his praiſe to be glorious. Say unto God, how terrible art thou
+in thy works? through the greatneſs of thy power ſhall thine enemies
+ſubmit themſelves unto thee. All the earth ſhall worſhip thee, and
+ſhall ſing unto thee; they ſhall ſing unto thy name.</hi> Selah.
+<hi>Come and ſee the works of God, he is terrible in his doings toward the
+children of men: he turned the Sea, into dry Land, they went through the flood
+on foot, there did we rejoyce in him. O bleſſe God, ye people, and make the
+voice of his praiſe to be heard.</hi> &amp;c. <hi>Pſal.</hi> 77.16. <hi>The
+waters ſaw thee O God, the waters ſaw thee, and were afraid, the depths
+alſo weare troubled, the clouds poured out water, the Skyes ſent out a
+ſound, thine arrowes alſo went abroad the voice of thy thunder was in the
+heaven, the lightnings light<g ref="char:EOLhyphen"/>ned<pb n="12" facs="tcp:106004:12"/>the world, the earth
+trembled and ſhooke; Thy way is in the Sea and thy path in the great waters,
+and thy foot ſteps are not known.</hi> Pſal. 78.12. <hi>Mar<g ref="char:EOLhyphen"/>vellous things
+did he in the ſight of their fathers, in the land of Egypt, in the feild of
+Zoan. He divided the Sea, and cauſed them to paſſe through, and he made
+the waters to ſtand as an heap. In the day time, he led them alſo with a
+cloud, and all the night, with a light of fire.</hi> &amp;c. And Deborah and
+Barak, in their ſong of thanks-giving ſet forth <hi>Magnalia, &amp;
+Mirabilia Dei;</hi> the won<g ref="char:EOLhyphen"/>derfull works of God, how the armies of Heaven
+&amp; Earth fought for their reſcue, and deliverance. Jud. 5.20. <hi>They
+fought from heaven, the ſtars in their courſes fought againſt Siſera.
+The river Kiſhon ſwept them away, that antient River, the River Kiſhon. O
+my ſoul thou haſt troden down ſtrength.</hi>
+            </p>
+            <p>Then Seaventhly for the better expreſſion of their
+thankfulneſs, for ſuch mercyes and deliverances &amp; that they might be
+tranſmitted and handed over, to all poſterity, and generations, and that
+the people that were un<g ref="char:EOLhyphen"/>born might praiſe the Lord, it was uſuall, and
+ordinary, with them, to put ſome remarkable ſigne, or token of remembrance,
+upon the particu<g ref="char:EOLhyphen"/>lar mercy, and deliverance, which they had received, or upon
+the place, where they received it by giving it a name, that did import and
+ſignifye the ſame, that ſo when their children or their childrens
+children ſhould in time to come, ask the reaſon, why is this thing, or this
+place called by this name, then their fathers might preach unto them the
+<hi>gracious delive<g ref="char:EOLhyphen"/>rance</hi> of the Church in that thing, or that place and
+make rehearſall &amp; re<g ref="char:EOLhyphen"/>petition of the righteous Acts of the Lord: thus the
+Lord inſtructed them in the ordinance of the Paſſeover. <hi>Exod.</hi>
+12.25. it was called the Paſſeover, becauſe the Lord commanded the
+deſtroying Angel to paſſe over the houſes of Iſrael when he ſlew
+all the firſt born of the Egyptians. <hi>And it ſhall come to
+paſſe</hi> (ſaith the text) <hi>when ye be come to the land which the
+Lord will give you according as he hath promiſed that ye ſhall keepe this
+ſervice. And it ſhall come to paſſe when your children ſhall ſay
+unto you what mean you by this ſervice that ye ſhall ſay it is the
+ſacrifice of the Lords Paſseover who paſſed over the houſes of the
+children of Iſrael in Egypt when he ſmote the Egyptians, and delivered our
+hou<g ref="char:EOLhyphen"/>ſes.</hi>
+               <note place="margin">Hebr. <hi>Paſch,</hi> from
+<hi>Pa<g ref="char:EOLhyphen"/>ſach,</hi> that is to leape, or Paſſe<g ref="char:EOLhyphen"/>over</note> And when the
+waters of Jordan were cut off (or divided) that the people might paſſe into
+the land of promiſe; Joſua commanded (for a perpetual remem<g ref="char:EOLhyphen"/>braniſe; f
+this Act to all poſterity) that twelve men (that is) one out of every tribe
+of Iſrael ſhould take a great ſtone out of midſt of Jordan and ſet
+them up upon a heap upon that place which was dri<g ref="char:EOLhyphen"/>ed up for their paſſage,
+that when the generations to come ſhould ask, what means this great heap of
+ſtones, then the fathers might preach to<pb n="13" facs="tcp:106004:12"/>their children
+the righteous Acts of the Lord, and (by reviving the memorial of that
+wonderfull mercy) ſtir them up to praiſe the Lord. <hi>Jos.</hi> 4.6. The
+Lord gave Iſrael a great deliverance, from their enemies by the hand of
+Samſon; firſt Samſon returned thanks <hi>(Lord thou haſt given this
+great de<g ref="char:EOLhyphen"/>liverance to thy ſervant)</hi> and then he puts a name upon the
+place, for a Memo<g ref="char:EOLhyphen"/>randum to poſterity, he calls it, Jud. 15.17. <hi>Ramath
+Lehi (that is) the lifting up of the jaw bone;</hi> that when the generations
+to come ſhould inquire, why is this place called <hi>Ramath Lehi?</hi> then
+their fathers might preach unto them the righteous Acts of the Lord; &amp;
+ſhew them the greatneſſe of the delive<g ref="char:EOLhyphen"/>rance by the weakneſſe of the
+meanes. So Iſraels great deliverance from the enemy, that ſurrounded and
+compaſſed them about; David thankfully aſcribes unto the Lord; <hi>the
+Lord</hi> (ſaith he) <hi>ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h
+broken in upon mine ene<g ref="char:EOLhyphen"/>mies like the breach of waters;</hi> and then he gives
+a name to the place, for a Memorandum to Poſterity, he calls it
+<hi>Baal-Perazim</hi> (that is) the plaine of breaches. 2. <hi>Sam.</hi> 5.20.
+That when the children in time to come ſhould inquire, why is this place
+called <hi>Baal-Perazim?</hi> then their fathers might teach them the great
+mercies of God towards Iſrael; and ſay unto them, in this place the enemy
+compaſſed us about, and thought to ſwallow us up quick: and here the Lord
+broke in upon them like the breach of waters, and therefore this place is
+called <hi>Baal-Perazim,</hi> the plain of breaches. The like may be ſaid of
+Samuel when the Lord had delivered Iſrael from the Army of the Philiſtins,
+not by ſword, or by bow or by battle, but by thun<g ref="char:EOLhyphen"/>der from heaven, then
+Samuel ſet up a great pillar of ſtone for a memori<g ref="char:EOLhyphen"/>al to all generations,
+and gives it a name, he called it <hi>Eben-Ezer,</hi> that is the ſtone of
+help, ſaying thus far the Lord hath helped us. 1. <hi>Sam.</hi> 7.12. And
+after that <hi>Jehoſaphat</hi> had received a notable deliverance, (from the
+numerous Army of the Ammonites, the Moabites, and the Edomites, that came
+againſt Juda) not by fighting but by ſinging, and praiſing God. 2.
+<hi>Chr.</hi> 20.21.23. That the memoriall of ſo great a deliverance might be
+perpetuated to all poſterity, he put a name upon the place and called it
+<hi>Berachah;</hi> that is bleſſing, and ſo that valley, was called the
+<hi>valley of bleſſing,</hi> that when their children in time to come
+&amp;c.</p>
+            <p>Eightly they expreſſed their thankfulneſs, by erecting of
+Altars, as Moſes. <hi>Exo.</hi> 17.14. and Gideon. <hi>Jud.</hi> 6.24. and
+Joſua. <hi>Joſ.</hi> 8.30. and others.</p>
+            <p>Ninethly. They did not onely bleſſe God for their
+deliverances, and build Altars, and erect great pillars, and monuments: but
+alſo they writ whole Rolles, Bookes and volumes, of their deliverances, for
+the inſtru<g ref="char:EOLhyphen"/>ction of future generations, and thus the Lord commanded Moſes,
+to write Iſraels deliverance from the lying in wait of Amelek (the firſt
+enemy that affronted them after their coming out of Egypt) <hi>Joſ.</hi>
+17.14. <hi>The Lord<pb n="14" facs="tcp:106004:13"/>ſaid unto Moſes, write this for a
+Memorial in a book:</hi> the Lord will have written and recorded not onely what
+<hi>Amalek</hi> did to <hi>Iſrael,</hi> but alſo what the God of
+<hi>Iſrael</hi> did to <hi>Amalek,</hi> for a Memorial to <hi>Iſrael,</hi>
+for inſtruction to poſterity, that the generations to come might praiſe
+the Lord. Thus <hi>Iſraels</hi> deli<g ref="char:EOLhyphen"/>verance from the <hi>Amorites</hi> and
+the wonderfull Acting of the Lord in or<g ref="char:EOLhyphen"/>der thereunto, they recorded in a booke
+for the benefit of poſterity. <hi>Joſ.</hi> 10.13. <hi>The Sun ſtood
+ſtill in Gibeon and the Moone in the valley of Ajalon, till the people were
+avenged of their enemies. Is not this written in the booke of Jaſher?</hi>
+The great deliverance of <hi>Iſrael</hi> in the red ſea, and the wonders
+which the Lord wrought in the brooks of <hi>Arnon</hi> were recorded for a
+Memorial to poſterity in the <hi>booke of the warrs of the Lord. Num.</hi>
+21.14. <hi>It is ſayd in the booke of the warrs of the Lord, what he did in
+the red ſea and in the brooks of Arnon. And at the ſtreame of the brooks
+that goeth down to the dwelling of Ar, and lyeth upon the border of Moab.</hi>
+The vulgar latine reads the rocks of the torrents were bowed down that they
+might reſt in Ar, and lye in the borders of <hi>moab,</hi> upon which the do
+way tranſlators comment thus. A the Egyptians were drowned in the ſea: ſo
+the <hi>Amorites</hi> were oppreſ<g ref="char:EOLhyphen"/>ſed with the rocks falling upon them, and
+the waters carried their carcaſes into the valley of <hi>Moab.</hi> This was
+recorded in the book of the warrs of the Lord. And thus they writ volumes and
+books of their deliverances, for an everlaſting Memorial to all poſterity.
+And was it thus with our fathers and the people of God informer ages, then
+<hi>ſurely whatſoever things were written a foretime, were written for our
+learning,</hi> and that we might be led forward to perfection. Theſe examples
+are ſo many inſtructions to us, ſo many memorials and Memorandums for us
+to ſhew what is required of us, what duty is incumbent upon us, and what the
+Lord requires at our hands for ſo many mercies and bleſſings and
+deliverances which we have re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>But a firſt uſe may be by way of reproof of the lukewarmneſs
+the incogi<g ref="char:EOLhyphen"/>tancy, and inconſideration of the men and women of our times and
+our great unthankfulneſs. Have we not been like Gideons fleece abundantly
+watered with the dew of heaven, when the Nations round about us have been dry?
+and where is the demonſtration of our thankfulneſs; have we not received
+ſhowers of mercies, plenty of bleſſings and deliverances Cor<g ref="char:EOLhyphen"/>poral and
+Spirituall, of ſoul and of body, and where is the manifeſto of our
+thankfulneſs, did not we, our wives and our children, our familyes and
+rela<g ref="char:EOLhyphen"/>tions receive a wonde<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full
+deliverance as upon this day. the 23. <hi>of Octob.</hi> 1641. from the
+treachery, the inveterate &amp; implacable malice &amp; fury of our
+bloodthirſty enemies? &amp; where is the expreſſion of our
+thankfulneſs? had we not our lives given to us for a prey &amp; were
+reſcued from the hand of<pb n="15" facs="tcp:106004:13"/>the Egyptians and from the hand
+of Pharao? but where is our thankfulneſs? have we not been delivered from
+many and very many dangers ſince, but then where is the Expreſſion of our
+thankfulneſs? have we not been de<g ref="char:EOLhyphen"/>livered from ſword, and from famine and
+from peſtilence? yea, but where is the token of our thankfulneſs? have we
+not been lately delivered from Anarchy and tyranny, and bondage, and
+vaſſalage, and oppreſſion? and very muſhroms of men that did more
+then King it over us, King it? nay one of theſe petty tyrants little fingers
+was heavier then a Kings loines: and where is the index of our thankfulneſs?
+we have the worſhip and ſervice of God reſtored, and the preiſts again
+ſet in their orders, to praiſe God in the beauty of holineſs inſtead of
+Anarchy; we have our Ancient mo<g ref="char:EOLhyphen"/>narchy, inſtead of confuſed parity; we have
+our Reverend Hierarchy in<g ref="char:EOLhyphen"/>ſtead of an arbitrary power; we have our judges
+reſtored, to us, as at the firſt and our councellors as at the begining;
+inſtead of oppreſſion, we have juſtice in our gates; inſtead of war
+wee have peace; inſtead of ſickneſs, we have health; inſtead of penury,
+we have plenty; what is it which the Lord could have done for a people, that he
+hath not done for us? what is it that the Lord hath not given us? we may ſay
+with Moſes, <hi>Deu.</hi> 29.2. <hi>ye have ſeen all that the Lord hath
+done to the Egyptians, the great tem<g ref="char:EOLhyphen"/>ptations which your eyes have ſeen, the
+ſigns and great wonders, yet the Lord hath not given you hearts to perceive
+and eyes to ſee and ears to hear to this day:</hi> what is it that the Lord
+hath not given us? Oh he hath not given us thankful hearts to this day, we are
+like the barren ground that receives abun<g ref="char:EOLhyphen"/>dance of good ſeed, but returns
+little fruit of increaſe, ten lepers (in the Goſpel) were clenſed, and
+but one returned, to give thanks to God. <hi>Luc.</hi> 17.17. The Lord may take
+up his antient complaint by Moſes <hi>Deut.</hi> 32.5. <hi>They have
+corrupted themſelves, their ſpot is not the ſpot of his children,</hi>
+(or as it is in the margin; <hi>they are not his children, that is their
+blot</hi>) <hi>they are a perverſe and crooked generation: Do ye thus requite
+the Lord, O fooliſh people and unwiſe; do we thus requite him?</hi>
+Brethren this unthankfulneſs of ours is a ſin of an high Elevation, of very
+great provocation; and let us take heed leſt our unthankfulneſs for mercyes
+in time paſt, render us un<g ref="char:EOLhyphen"/>capable of the like mercyes for the time to come.
+Remember <hi>Hezekiah.</hi> 2. <hi>Chr.</hi> 32.25. When the Lord had ſaved
+him<g ref="char:punc">▪</g> from his enemyes on every ſide, he was puffed up and <hi>rendred
+not again according to the benefit done un<g ref="char:EOLhyphen"/>to him; therefore there was wrath
+upon him and upon Juda and Jeruſalem.</hi> This is our caſe, we render not
+again according to the mercyes we have received, wee have forgotten our dangers
+and we have forgotten our deliverances. Note that <hi>Apoc.</hi> 9.12. <hi>One
+wo</hi> (ſayes the Angel) <hi>is paſt, and behold there come two woes more
+hereafter:</hi> God hath many Arrowes in<pb n="16" facs="tcp:106004:14"/>his quiver, all are
+not ſpent when one woe is paſt, all is not paſt; there are two more, and
+(it may be) two greater yet to come, and therefore minde that ſaying of our
+Saviour to the impotent man, that was made whole, <hi>Go thy way ſin no
+more</hi> (be not unthankfull) <hi>leſt a worſe thing hap<g ref="char:EOLhyphen"/>pen unto
+thee.</hi> Secondly, it may ſerve for a uſe of exhortation, let us be
+exhorted, to turne a new leaf, to learn a new leſſon, to pay our tribute to
+whom tribute is due, <hi>to render unto Caeſar the things that are Caeſars,
+and unto God, the things that are Gods.</hi> Let us learne to be thankfull for
+all our mercyes; to be thankfull for every mercy. If I ſhould here take up<g ref="char:EOLhyphen"/>on
+me, to number our mercyes, and call for a <hi>Benedictus Dominus,</hi> for
+every particular mercy and deliverance, the time would ſoon ſayl me but
+matter could never ſayl me. I will therefore ſay with the Kingly Prophet.
+<hi>Pſal.</hi> 139.17. <hi>O how precious are thy thoughts (O God) to us
+ward; O how great is the ſum of them? If I ſhould count them they are more
+in num<g ref="char:EOLhyphen"/>ber then the ſand.</hi> But If I will not forget the occaſion of
+this dayes ſolem<g ref="char:EOLhyphen"/>nity (as <hi>Orbilius</hi> forgot his name) I muſt
+ſpeake one word concerning that great mercy and wonderfull deliverance which
+wee all received, as upon this day, which calls for an univerſall
+thankfullneſs, from all ſorts throughout all generations.</p>
+            <p>There was a miſcheivous, damnable, and diveliſh project hatcht
+by a degenerate generation of men, the Sons of Belial, againſt our Church and
+ſtate, our perſons, our lives, our nation, and Religion; their deviſe
+was, to roote out all at once, to cut off head and tayle, branch and ruſh, in
+one day: they had been (as one ſayes) a long time gathering of fagots, and as
+upon this day they intended to ſet them on fire, to conſume us all: but the
+Lord hath preſerved us from the jawes of thoſe lyons whelps, pluckt us like
+brands out of the midſt of the burning, and many of thoſe who were ſo
+induſtrious in gathering of fagotts, (like <hi>Nadab</hi> and <hi>Abihu</hi>)
+have been conſumed with the flame, which themſelves had kindled. 
+<note place="margin">*<hi>Hebr.</hi> Palmes or bel<g ref="char:EOLhyphen"/>lowes, for the
+ſe<g ref="char:EOLhyphen"/>cret manner of working. Pſal. 9. verſe. 15.16.</note> Thus <hi>the
+Heathen are ſunk down into the pit that they made, in the net which they hid
+is their own foot taken. The Lord is knowne by the judgment which he executeth;
+the wicked is ſnared in the work of his own hands. Higgajon Selah</hi> The
+Chaldee paraphraſe (the juſt ſhall joyfully ſhout for ever)
+<hi>Tremel<g ref="char:EOLhyphen"/>lius</hi> renders it (<hi>rem ſumme memorandam,</hi> a thing
+cheifly to be remembred) The holy Catholicks had contrived a Catholick
+Apoſtaſy and Rebellion, a Catholick maſſacre and doomeſday, for the
+<hi>good old cauſe</hi> (that is) for the advancement of the <hi>Catholick
+intereſt,</hi> they had projected to quench the light of the Goſpell with
+the blood of us that profeſſed it, and for the effe<g ref="char:EOLhyphen"/>cting their project
+with the more facility, they had reſolved to ſeize all<pb n="71" facs="tcp:106004:14"/>the ſtrong holds, forts, caſtles and magazines in the Kingdome
+(and eſpecial<g ref="char:EOLhyphen"/>ly the Caſtle of Dublin) at one time, that is upon this 23.
+<hi>of October</hi> and ſo to get all the Arms, and Ammunition in the
+Kingdome into their own hands and then to fall to the Sword and Skeane, and to
+cry with the Edomites, <hi>Down with them even to the ground, Pſal.</hi> 137.
+<hi>v.</hi> 7. They had brought their de<g ref="char:EOLhyphen"/>ſign to the very nick of execution:
+the lyers in wait were entred into their Ambuſh to ſurprize the Caſtle of
+this city at the hour apointed: they had brought their miſcheivons deviſe
+as nigh execution as <hi>Faux</hi> was to the blowing up of the Parliament
+houſe, the powder and the billets were ready, the train was layed, there
+wanted nothing but applying the match to the powder. 
+<note place="margin">Fire and wood were ready, and we were deſigned
+for the ſa<g ref="char:EOLhyphen"/>crifice.</note> And theſe ſons of Belial had brought their
+diveliſh plot within leſs then 14 hours to the time which they had
+deſigned for the execution: it was a work of darkneſs, ſaw not the light,
+could not be diſcovered, and therefore could not be prevented, but he that
+keep<g ref="char:EOLhyphen"/>eth Iſrael, that never ſlumbers nor ſleeps, was pleaſed to
+watchover us ſea<g ref="char:EOLhyphen"/>ſonably to bring this worke of darkeneſs to light, and
+by a wonderful way to diſcover their machinations and to deliver us by a
+greate deliverance as we ſee this day: And doth not this call upon us to
+ſing <hi>Jethro</hi>'s Song of thanksgiving <hi>Benedictus Dominus:
+Bleſſed be the Lord, who hath deliverd us out of the hadd of the Egyptians,
+and out of the hand of Pharao; who hath delive<g ref="char:EOLhyphen"/>red the people from the hand of
+the Egyptians.</hi>
+            </p>
+            <p>When this deſign was diſcovered, and the Execution of it
+prevented; they fell notwithſtanding to carry on their purpoſe of rooting
+us out; by the practice of all kind of miſchiefe; that miſchiefe which they
+had before concluded and that as men in deſperation. 
+<q>Haec quia non ſucceſſit alia aggrediendum via.</q>Now (I
+confeſſe) I ſhould much afflict your minds and torment your patience (I
+ſay not if I ſhould make reherſal: But) if I ſhould but point and
+glaunce at thoſe manyfold and barbarous cruelties; inhumanities; and ſavage
+butche<g ref="char:EOLhyphen"/>ries which they uſed and practiſed in every place were they came a
+gainſt the Brittiſh Proteſtants (as atoken of their inveterate hatred
+both to their nati<g ref="char:EOLhyphen"/>on and Religion) It is hard to judge whether they were more
+in genious in the invention of variety of tortures or barbarouſly cruel in
+the execution. But <hi>exungue leonem,</hi> you may know the lyon by his paw
+and gueſle at Her<g ref="char:EOLhyphen"/>cules ſtature by the impreſſion of his foot in
+Olympus I will but mention (and I cannot without trembling) the barbarous and
+inhumane ſtripping of men women and children naked, in the depth of winter,
+in the height<pb n="18" facs="tcp:106004:15"/>of froſt, and ſnow, and ſo turning them
+out of dores to wander in the bogs and mountains, deſtitute, afflicted and
+tormented, feeding ſome like dogs and ſtarving others with hunger, their
+fearfull reproaches blaſphem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es,
+and inſultations. Some they would bring to the Church, ſtrip them naked,
+ſet them before the Pulpit, beat them with cudgels, or ſcourge them with
+rods, to the effuſion of their blood, and then aske them, how like you ſuch
+a Sermon as this? to morrow you ſhall hear ſuch an other: what wan<g ref="char:EOLhyphen"/>ted this
+of the blaſphemy of <hi>Davids</hi> enemies, who (in his diſtreſſe)
+cryed where is now thy God? <hi>Pſal.</hi> 42. <hi>v.</hi> 10. Hanging,
+drowning, ſtabbing, knock<g ref="char:EOLhyphen"/>ing in the head were common and ordinary, and might
+be reputed mercies at their hands, and indeed were mercies comparatively, that
+is in compa<g ref="char:EOLhyphen"/>riſon of the lingring torments inflicted upon many others. Some
+they made drunk, with ſtrong drink, or inveigled them to go to maſs upon
+pro<g ref="char:EOLhyphen"/>miſe to preſerve their lives, and then immediately hanged them,
+indea<g ref="char:EOLhyphen"/>voring and intending (as much as in them lay) to deſtroy both body and
+Soul together, ſome they buried a live and took much pleaſure and de<g ref="char:EOLhyphen"/>light
+to hear their cryes, and pittyfull complaints, and few they buried
+o<g ref="char:EOLhyphen"/>therwiſe, it is conceived (upon good grounds) that in one River they
+drowned no fewer then a thouſand perſons, and that in the province of
+<hi>Ulſter,</hi> there periſhed (in the beginning of the Rebellion) above
+154000. perſons, and then (as <hi>Ahaſhucrus</hi> ſaid) what have they
+done in the reſt of the King<g ref="char:EOLhyphen"/>dom? ſo that we may truly ſay with the
+Prophet, <hi>Pſal.</hi> 79.1. <hi>Oh God the heathen are came into thine
+inheritance, thy holy temples have they defiled, and have made Jeruſalem an
+heap of of ſtones. The dead bodies of thy ſervants have they given to be
+meate to the fowles of the heaven, and the fleſh of thy ſervants have the
+heaſts of the earth. Their blood have they ſhed like water round about
+Je<g ref="char:EOLhyphen"/>ruſalem, and there was none to bury them. Thus we were made a reproach to
+our neighbours, a very ſcorne and deriſion to them that were round about
+us.</hi>
+            </p>
+            <p>Now that the Lord hath thus wonderfully delivered us, out of the
+hand of the Egyptians, and preſerved us alive, as it is this day, is it not a
+duty in<g ref="char:EOLhyphen"/>cumbent upon all of us to ſing a <hi>Benedictus Dominus?</hi> and
+ſay <hi>Pſal.</hi> 124.1. <hi>&amp;c. If the Lord himſelf had not been on
+our ſide (now may Iſrael ſay) If the Lord himſelf had not been on our
+ſide when men roſe up againſt us. Then they had ſwallowed us quick,
+when they were ſo wrathfully diſpleaſed at us. Then the wa<g ref="char:EOLhyphen"/>ters had
+overwelmed us, the ſtream had gone over our ſoul. Bleſſed be the Lord,
+who hath not given us over as a prey unto their teeth. Our ſouls are
+eſcaped, as a bird out of the ſnare of the fowler, the ſnare is broken
+and we are delivered, let them then</hi> (ſaith the Prophet) <hi>give thanks
+unto the Lord, whom he hath redea<g ref="char:EOLhyphen"/>med, and delivered from the hand of the
+enemy, and gathered them from the eaſt and from the weſt; and from the
+north; and from the ſouth Pſal.</hi> 107.2,3. Let<pb n="19" facs="tcp:106004:15"/>the
+princes of the people ſing their <hi>Benedctius: Give unto the Lord (Oh ye
+migh<g ref="char:EOLhyphen"/>ty) Pſal.</hi> 29.1.2. <hi>give unto the Lord glory and ſtrength, give
+unto the Lord the glo<g ref="char:EOLhyphen"/>ry due unto his name, worſhip the Lord in the beauty of
+holineſſe, Let the prieſt be cloathed with righteousneſſe and let the
+ſaints ſing with joyfulneſſe.</hi> Let the prieſts with
+<hi>Jethro</hi> ſing their <hi>Benedictus: Bleſſed be the Lord who hath
+delivered us out of the hand of the Egyptians,</hi> Let men ſing with
+<hi>Zachary</hi> their <hi>Benedi<g ref="char:EOLhyphen"/>ctus: Bleſſed be the Lord God of
+Iſraell Luc.</hi> 1.69. <hi>for he hath viſited and redea<g ref="char:EOLhyphen"/>med his people
+and hath raiſed up a mighty ſalvation for us.</hi> Let the women ſing
+their <hi>Benedictus: Luc.</hi> 1.46. with <hi>Mary, and ſay My ſoule doth
+magnify the Lord; and my ſpirit rejoyces in God my Saviour, &amp;c.</hi> Let
+the children ſing their <hi>Benedi<g ref="char:EOLhyphen"/>ctus,</hi> with the young ones in the
+temple, and ſay, <hi>Hoſanna to the ſon of David, Hoſanna in the
+higheſt, Mat.</hi> 21.9. Let us all give thanks and ſay, <hi>The Lord is
+good for his mercy endureth for ever. Who remembred us in our low eſtate; for
+his mercy endureth for ever. And hath delivered us from our enemies, for his
+mercy endureth for ever, Oh give thanks to the God of heaven for his mercy
+endureth for ever, Oh give thanks to the Lord of all Lords; for his mercy
+endureth for ever.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <bibl>Pſal. 102.18.</bibl> 
+                  <p>This ſhall be written for the generations that are yet to
+come; and the children that are yet unborne ſhall praiſe the Lord.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
